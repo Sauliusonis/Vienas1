@@ -17,4 +17,5 @@ print "Hello world!";
 
      print "labas dar kart";
 print "GITHUB TEST":
+PRINT "gITHUB TEST2";
   ?>
