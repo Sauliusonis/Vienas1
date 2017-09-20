@@ -1,21 +1,12 @@
-<!-- <html> -->
-<!-- <head><title>Saulius</title></head> -->
-<!-- <header>Hello world!</header>
-<body>gerai!
-nauja linija cia
-<h1>o kur noretum eiti?</h1>
-<h2>McDonalds?</h2>
-</body>
- --><!-- 
- </html> -->
-
 <?php 
-	print("Hello World");
+	$drinks	= ["kava", "pienas", "alus", "vanduo", "sultys","vyyyyynas"];
+
+	foreach ($drinks as $drink) {
+		print "Gerimas: " . ($drink) . "<br>";
+	}
+
 
 
 
 
  ?>
-
-
-

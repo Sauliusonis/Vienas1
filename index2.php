@@ -1,21 +1,12 @@
-<!-- <html> -->
-<!-- <head><title>Saulius</title></head> -->
-<header>Hello world!</header>
-<body>gerai!
-nauja linija cia
-<h1>o kur noretum eiti?</h1>
-<h2>McDonalds?</h2>
-</body>
-<?php 
-print "Hello world!"; 
-?>
-
-
- </html>
-
- <?php 
-
-     print "labas dar kart";
-print "GITHUB TEST":
-PRINT "gITHUB TEST2";
-  ?>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Saulius1</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="">
+	</head>
+		
+	<body>
+		Body dalis
+	</body>
+</html>
